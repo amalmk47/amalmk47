@@ -1,76 +1,84 @@
-# 👋 Hi, I'm Amal M K
+<h1 align="center">Hi 👋, I'm Amal M K</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+%26+Machine+Learning+Engineer;IEEE+Published+Researcher;Software+Testing+%26+Automation;Multimodal+AI+Explorer;Always+Learning+🚀&center=true&width=600&height=45">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=amalmk47&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+## 🚀 About Me
 
 🎓 M.Tech in Data Science  
-📚 IEEE Published Researcher (CONIT 2025 & IEEE TII 2025)  
-🤖 AI & Machine Learning Engineer  
-🧪 Software Testing & Automation Enthusiast  
+📚 IEEE Published Researcher (TII 2025 & CONIT 2025)  
+🤖 AI Engineer | Deep Learning | NLP | Vision  
+🧪 Software Testing & Automation  
 📍 Kerala, India  
 
 ---
 
-## 🚀 What I Do
-
-- Build intelligent ML/DL systems  
-- Develop multimodal AI (Vision + Language)  
-- Design scalable data-driven solutions  
-- Ensure software quality through structured testing  
-
----
-
-## 🔬 Research & Publications
+## 🔬 Research Publications
 
 ### 🧠 EV Energy Consumption Prediction (IEEE TII – 2025)
-- TabTransformer, TabNet, BERT embeddings  
-- LightGBM + KMeans clustering  
+- TabTransformer • TabNet • BERT Embeddings  
+- LightGBM + KMeans Clustering  
 - Bayesian Optimization (Optuna)  
-- Achieved MAE of 0.38 with 20% improvement  
+- MAE: 0.38 (20% improvement)
 
 ### 🌐 Bilingual Image Captioning (IEEE CONIT 2025)
-- ResNet-18 + Transformer-based architecture  
-- English & Malayalam caption generation  
-- BLEU, METEOR, ROUGE-L evaluation  
+- ResNet-18 + Transformer Decoder  
+- English & Malayalam Captioning  
+- BLEU • METEOR • ROUGE-L  
 
 🔗 Research Repository  
 https://github.com/amalmk47/Bilingual-Image-Captioning-EN-ML-IEEE-CONIT-2025  
 
 ---
 
-## 💼 Experience
+## 🛠 Tech Stack
 
-**Operations Manager – The Professional Couriers Pvt. Ltd.**  
-Logistics coordination, billing systems, process optimization  
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-**Junior Data Scientist – Soften Technologies**  
-ML/DL model building, NLP pipelines, Tableau insights  
+### 🤖 AI & ML
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Transformers](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LightGBM](https://img.shields.io/badge/LightGBM-9ACD32?style=for-the-badge)
+![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
-**Software Testing Trainee – Travidux Technologies**  
-Manual testing, STLC, Selenium WebDriver automation  
-
----
-
-## 🛠 Technical Stack
-
-### AI & Data
-Python • PyTorch • Transformers • TabNet • LightGBM  
-Scikit-learn • NLP • Computer Vision • Optuna  
-
-### Software & Testing
-Selenium WebDriver • TestNG • SDLC • STLC  
-Manual & Automation Testing  
-
-### Tools
-Git • VS Code • Jupyter • Kaggle • Tableau  
+### 🧪 Testing
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![TestNG](https://img.shields.io/badge/TestNG-FF6F00?style=for-the-badge)
+![Manual Testing](https://img.shields.io/badge/Manual%20Testing-blue?style=for-the-badge)
 
 ---
 
-## 📜 Certifications
+## 📊 GitHub Analytics
 
-- 100 Days of Code – Python Bootcamp  
-- Software Testing Certification  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amalmk47&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amalmk47&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-## 🌍 Connect
+## 🔥 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amalmk47&theme=tokyo-night" />
+</p>
+
+---
+
+## 🌍 Connect With Me
 
 🔗 Portfolio: https://amalmk47.github.io  
 🔗 LinkedIn: https://linkedin.com/in/amalmk47  
@@ -79,14 +87,6 @@ Git • VS Code • Jupyter • Kaggle • Tableau
 
 ---
 
-## 📊 GitHub Analytics
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=amalmk47&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amalmk47&layout=compact&theme=tokyonight)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=amalmk47&theme=tokyo-night)
-
----
-
-🚀 Bridging AI innovation with reliable, production-ready software systems.
+<p align="center">
+  🚀 Bridging AI innovation with production-ready systems.
+</p>
