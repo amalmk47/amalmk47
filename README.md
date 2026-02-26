@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi 👋 I'm Amal M K
 
-<!--
-**amalmk47/amalmk47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 M.Tech in Data Science  
+📚 IEEE Published Researcher (CONIT 2025)  
+🤖 Machine Learning & AI Engineer  
+💻 Python Developer | Software Engineer  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔬 Research Work
+
+📌 **Bilingual Image Captioning (IEEE CONIT 2025)**  
+- ResNet-18 + Transformer (LLM-inspired)  
+- English & Malayalam Caption Generation  
+- BLEU | METEOR | ROUGE Evaluation  
+
+📌 **EV Energy Consumption Prediction**  
+- TabTransformer | TabNet | LightGBM  
+- Hyperparameter tuning with Optuna  
+
+---
+
+## 🛠 Technical Skills
+
+**Languages:** Python, Java, SQL  
+**ML & AI:** PyTorch, Scikit-learn, Transformers, NLP  
+**Tools:** Git, VS Code, Jupyter, Kaggle  
+**Domains:** Deep Learning, Computer Vision, Multimodal AI  
+
+---
+
+## 📊 GitHub Stats
+
+![Amal's GitHub stats](https://github-readme-stats.vercel.app/api?username=amalmk47&show_icons=true&theme=tokyonight)
+
+---
+
+## 🌐 Connect With Me
+
+📧 amalmk47@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/amalmk47)  
+🔗 [Portfolio Website](https://amalmk47.github.io)
+
+---
+
+🚀 Always building. Always learning.
