@@ -28,6 +28,9 @@
 - Bayesian Optimization (Optuna)  
 - MAE: 0.38 (20% improvement)
 
+🔗 Research Repository  
+[🔗 View EV IEEE Publication](https://ieeexplore.ieee.org/document/11167275)
+
 ### 🌐 Bilingual Image Captioning (IEEE CONIT 2025)
 - ResNet-18 + Transformer Decoder  
 - English & Malayalam Captioning  
